@@ -1,0 +1,13 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+	Layout = "mongose.cshtml";
+	var Blocks = Model.Content.GetPropertyValue<List<IPublishedContent>>("block");
+}
+@foreach (var block in Blocks)
+{	
+	var partialView = "/Views/Partials/Block/" + block.DocumentTypeAlias + ".cshtml";
+	@Html.Partial(partialView, block)
+}  
+
+@* the fun starts here *@
+

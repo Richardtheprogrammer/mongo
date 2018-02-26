@@ -1,0 +1,88 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+	Layout = null;
+}
+
+@* the fun starts here *@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <!--title-->
+    <title>@CurrentPage.Name</title>
+    <!--title ends-->
+    <!--favoicon-->
+    <link rel="shortcut icon" type="image/x-icon" href="/media/1001/eagle.ico" />
+    <!--favoicon ends-->
+    <!--import of link-->
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="http://fontawesome.io/assets/font-awesome/css/font-awesome.css" />
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="/Content/bootstrap-theme.css" />
+    <link rel="stylesheet" href="/css/testimonial.css" />
+    <link rel="stylesheet" href="/css/contactus.css" />
+    <link rel="stylesheet" href="/css/slideshow.css" />
+    <link rel="stylesheet" href="/css/imagesinrowcss.css" />
+    <link rel="stylesheet" href="/css/textarea.css" />
+    <link rel="stylesheet" href="/css/HTML.css" />
+    
+    <!--import of links ends-->
+    <style>
+        .white-background {
+            /* The image used */
+            background-image: url("/media/1004/gray.jpg");
+            /*background-color: black;*/
+            /* Full height */
+            height: 100%;
+            /* Center and scale the image nicely */
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="navbar">
+        <a href="/"><i class="fa fa-info" aria-hidden="true"></i>Home<i class="fa fa-info" aria-hidden="true"></i></a>
+        <a href="/contact-us/"><i class="fas fa-comments"></i>Contact Us<i class="fas fa-comments"></i></a>
+        <a href="/whoarewe/"><i class="fa fa-user" aria-hidden="true"></i>Who Are We?<i class="fa fa-user" aria-hidden="true"></i></a>
+        <a href="#"><i class="fas fa-music"></i>10hours version<i class="fas fa-music"></i></a>
+        <div class="dropdown">
+            <button class="dropbtn">
+                <i class="fa fa-gamepad" aria-hidden="true"></i>Gaming<i class="fa fa-gamepad" aria-hidden="true"></i>
+                <i class="fa fa-caret-down"></i>
+            </button>
+            <div class="dropdown-content">
+                <a href="/gaming/poe/">Path Of Exile</a>
+                <a href="/gaming/uploading/">Build Upload(POE)</a>
+                <a href="/gaming/d3/">Diablo 3</a>
+            </div>
+        </div>
+        <div class="dropdown">
+            <button class="dropbtn">
+                <i class="fa fa-code" aria-hidden="true"></i>Programming<i class="fa fa-code" aria-hidden="true"></i>
+                <i class="fa fa-caret-down"></i>
+            </button>
+            <div class="dropdown-content">
+                <a href="#">Vb.net(Visual Basic)</a>
+                <a href="#">C#(C-sharp)</a>
+                <a href="#">Web Dev</a>
+            </div>
+        </div>
+    </div>
+    <div class="bg centered-item">
+        <div class="centered-item white-background pseudo-body">
+            <div class="centered-text">
+                @RenderBody()
+                
+                </div>
+                </div>
+                </div>
+                <!--javascripts-->
+                <script src="/scripts/slideshow.js"></script>
+                <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+                <!--javascripts ends-->
+                </body>
+</html>

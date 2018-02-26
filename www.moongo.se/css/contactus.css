@@ -1,0 +1,44 @@
+.bigass h1 {
+    color: aquamarine !important;
+    background-color: transparent;
+}
+.bigass h2{
+    color:red;
+    background-color:transparent;
+    font-size:20px;
+}
+button, input {
+    line-height: normal;
+}
+
+main.css:145 button, input, select, textarea {
+    font-family: inherit;
+    font-size: 100%;
+    margin: 0;
+    vertical-align: baseline;
+}
+
+form input, form textarea {
+    margin-bottom: 0.5em;
+}
+
+input, textarea {
+    font-size: 0.8em;
+    font-family: 'proxima-nova-soft', sans-serif;
+    border: 1px solid #ddd;
+    background: #fff;
+    padding: 0.9em;
+    transition: all 0.3s ease-in-out;
+    width: 100%;
+    color: darkblue;
+}
+.bbutton button{
+    background-color: transparent !important;
+    color: darkblue;
+    margin: 0;
+    padding: 0;
+    display: block;
+    left: 0;
+    right: 0;
+    width: 50%;
+}

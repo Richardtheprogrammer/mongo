@@ -1,0 +1,179 @@
+﻿ 2018-01-23 00:09:29,530 [P12436/D2/T6] INFO  Umbraco.Core.Publishing.PublishingStrategy - Content 'MONGO' with Id '1090' has been published.
+ 2018-01-23 00:09:34,236 [P12436/D2/T12] INFO  umbraco.content - Save Xml to file...
+ 2018-01-23 00:09:34,373 [P12436/D2/T12] INFO  umbraco.content - Saved Xml to file.
+ 2018-01-23 00:11:12,161 [P12436/D2/T6] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2018-01-23 00:11:12,162 [P12436/D2/T6] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2018-01-23 00:11:12,163 [P12436/D2/T6] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Core.Deploy.IServiceConnector
+ 2018-01-23 00:11:12,173 [P12436/D2/T6] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Core.Deploy.IServiceConnector (took 10ms)
+ 2018-01-23 00:33:50,908 [P12436/D2/T56] INFO  Umbraco.Core.Logging.OwinLogger - Event Id: 0, state: User logged will be logged out due to timeout: admin@mongo.se, IP Address: ::1
+ 2018-01-23 21:55:42,540 [P2192/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco 7.7.8 application starting on RICHARD-PC
+ 2018-01-23 21:55:42,635 [P2192/D2/T1] INFO  Umbraco.Core.PluginManager - Determining hash of code files on disk
+ 2018-01-23 21:55:42,694 [P2192/D2/T1] INFO  Umbraco.Core.PluginManager - Hash determined (took 59ms)
+ 2018-01-23 21:55:42,862 [P2192/D2/T1] INFO  Umbraco.Core.MainDom - Acquiring MainDom...
+ 2018-01-23 21:55:42,864 [P2192/D2/T1] INFO  Umbraco.Core.MainDom - Acquired MainDom.
+ 2018-01-23 21:55:42,866 [P2192/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2018-01-23 21:55:45,098 [P2192/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 2232ms)
+ 2018-01-23 21:55:45,100 [P2192/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IApplicationStartupHandler
+ 2018-01-23 21:55:45,102 [P2192/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IApplicationStartupHandler (took 1ms)
+ 2018-01-23 21:55:45,386 [P2192/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2018-01-23 21:55:45,389 [P2192/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 2ms)
+ 2018-01-23 21:55:45,389 [P2192/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+ 2018-01-23 21:55:45,390 [P2192/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter (took 0ms)
+ 2018-01-23 21:55:45,391 [P2192/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2018-01-23 21:55:45,391 [P2192/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2018-01-23 21:55:45,392 [P2192/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Core.PropertyEditors.IPropertyValueConverter
+ 2018-01-23 21:55:45,394 [P2192/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Core.PropertyEditors.IPropertyValueConverter (took 1ms)
+ 2018-01-23 21:55:45,438 [P2192/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2018-01-23 21:55:45,439 [P2192/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2018-01-23 21:55:45,440 [P2192/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Web.Mvc.SurfaceController
+ 2018-01-23 21:55:45,441 [P2192/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Web.Mvc.SurfaceController (took 1ms)
+ 2018-01-23 21:55:45,442 [P2192/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2018-01-23 21:55:45,442 [P2192/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2018-01-23 21:55:45,443 [P2192/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Web.WebApi.UmbracoApiController
+ 2018-01-23 21:55:45,444 [P2192/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Web.WebApi.UmbracoApiController (took 1ms)
+ 2018-01-23 21:55:54,007 [P2192/D2/T1] INFO  Umbraco.Core.DatabaseContext - CanConnect = True
+ 2018-01-23 21:55:55,707 [P2192/D2/T1] INFO  Umbraco.Web.Cache.CacheRefresherEventHandler - Initializing Umbraco internal event handlers for cache refreshing
+ 2018-01-23 21:55:57,803 [P2192/D2/T1] INFO  Umbraco.Web.Search.ExamineEvents - Initializing Examine and binding to business logic events
+ 2018-01-23 21:55:57,804 [P2192/D2/T1] INFO  Umbraco.Web.Search.ExamineEvents - Adding examine event handlers for index providers: 3
+ 2018-01-23 21:55:57,852 [P2192/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco application startup complete (took 15617ms)
+ 2018-01-23 21:55:57,868 [P2192/D2/T1] INFO  Umbraco.Web.ExamineStartup - Forcing index InternalIndexSet to be unlocked since it was left in a locked state
+ 2018-01-23 21:55:57,874 [P2192/D2/T1] INFO  Umbraco.Web.ExamineStartup - Forcing index ExternalIndexSet to be unlocked since it was left in a locked state
+ 2018-01-23 21:56:14,877 [P2192/D2/T6] INFO  Umbraco.Core.Sync.ApplicationUrlHelper - New ApplicationUrl detected: http://localhost:61480/umbraco
+ 2018-01-23 21:56:14,880 [P2192/D2/T6] INFO  Umbraco.Core.Sync.ApplicationUrlHelper - ApplicationUrl: http://localhost:61480/umbraco (UmbracoModule request)
+ 2018-01-23 21:56:16,851 [P2192/D2/T13] INFO  umbraco.content - Load Xml from file...
+ 2018-01-23 21:56:16,887 [P2192/D2/T13] INFO  umbraco.content - Loaded Xml from file.
+ 2018-01-23 21:56:18,969 [P2192/D2/T7] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2018-01-23 21:56:18,970 [P2192/D2/T7] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2018-01-23 21:56:18,970 [P2192/D2/T7] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Core.PropertyEditors.IParameterEditor
+ 2018-01-23 21:56:18,972 [P2192/D2/T7] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Core.PropertyEditors.IParameterEditor (took 1ms)
+ 2018-01-23 21:57:16,936 [P2192/D2/T11] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2018-01-23 21:57:16,937 [P2192/D2/T11] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2018-01-23 21:57:16,937 [P2192/D2/T11] INFO  Umbraco.Core.PluginManager - Resolving [Umbraco.Core.Persistence.Mappers.MapperForAttribute]Umbraco.Core.Persistence.Mappers.BaseMapper
+ 2018-01-23 21:57:16,938 [P2192/D2/T11] INFO  Umbraco.Core.PluginManager - Resolved [Umbraco.Core.Persistence.Mappers.MapperForAttribute]Umbraco.Core.Persistence.Mappers.BaseMapper (took 0ms)
+ 2018-01-23 21:57:17,009 [P2192/D2/T13] INFO  umbraco.BusinessLogic.Log - Log scrubbed.  Removed all items older than 2018-01-22 21:57:16
+ 2018-01-23 22:05:33,357 [P2192/D2/T36] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2018-01-23 22:05:33,358 [P2192/D2/T36] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2018-01-23 22:05:33,359 [P2192/D2/T36] INFO  Umbraco.Core.PluginManager - Resolving [Umbraco.Web.Trees.TreeAttribute]Umbraco.Web.Trees.TreeController
+ 2018-01-23 22:05:33,361 [P2192/D2/T36] INFO  Umbraco.Core.PluginManager - Resolved [Umbraco.Web.Trees.TreeAttribute]Umbraco.Web.Trees.TreeController (took 2ms)
+ 2018-01-23 22:05:33,526 [P2192/D2/T36] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2018-01-23 22:05:33,527 [P2192/D2/T36] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2018-01-23 22:05:33,527 [P2192/D2/T36] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IAction
+ 2018-01-23 22:05:33,528 [P2192/D2/T36] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IAction (took 1ms)
+ 2018-01-23 22:05:41,785 [P2192/D2/T37] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt succeeded for username admin@mongo.se from IP address ::1
+ 2018-01-23 22:05:41,788 [P2192/D2/T37] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: User: admin@mongo.se logged in from IP address ::1
+ 2018-01-23 22:05:42,881 [P2192/D2/T43] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2018-01-23 22:05:42,882 [P2192/D2/T43] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2018-01-23 22:05:42,883 [P2192/D2/T43] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.ITree
+ 2018-01-23 22:05:42,884 [P2192/D2/T43] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.ITree (took 1ms)
+ 2018-01-23 22:05:42,904 [P2192/D2/T43] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2018-01-23 22:05:42,904 [P2192/D2/T43] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2018-01-23 22:05:42,905 [P2192/D2/T43] INFO  Umbraco.Core.PluginManager - Resolving [Umbraco.Web.Trees.TreeAttribute]Umbraco.Web.Trees.TreeController
+ 2018-01-23 22:05:42,905 [P2192/D2/T43] INFO  Umbraco.Core.PluginManager - Resolved [Umbraco.Web.Trees.TreeAttribute]Umbraco.Web.Trees.TreeController (took 0ms)
+ 2018-01-23 22:05:42,909 [P2192/D2/T43] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2018-01-23 22:05:42,909 [P2192/D2/T43] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2018-01-23 22:05:42,910 [P2192/D2/T43] INFO  Umbraco.Core.PluginManager - Resolving [umbraco.businesslogic.TreeAttribute]umbraco.interfaces.ITree
+ 2018-01-23 22:05:42,910 [P2192/D2/T43] INFO  Umbraco.Core.PluginManager - Resolved [umbraco.businesslogic.TreeAttribute]umbraco.interfaces.ITree (took 0ms)
+ 2018-01-23 22:05:42,954 [P2192/D2/T44] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2018-01-23 22:05:42,955 [P2192/D2/T44] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2018-01-23 22:05:42,955 [P2192/D2/T44] INFO  Umbraco.Core.PluginManager - Resolving [umbraco.businesslogic.ApplicationAttribute]umbraco.interfaces.IApplication
+ 2018-01-23 22:05:42,956 [P2192/D2/T44] INFO  Umbraco.Core.PluginManager - Resolved [umbraco.businesslogic.ApplicationAttribute]umbraco.interfaces.IApplication (took 0ms)
+ 2018-01-23 22:07:21,900 [P2192/D2/T37] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2018-01-23 22:07:21,901 [P2192/D2/T37] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2018-01-23 22:07:21,902 [P2192/D2/T37] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Web.Editors.IEditorValidator
+ 2018-01-23 22:07:21,903 [P2192/D2/T37] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Web.Editors.IEditorValidator (took 0ms)
+ 2018-01-23 22:07:22,252 [P2192/D2/T37] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2018-01-23 22:07:22,252 [P2192/D2/T37] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2018-01-23 22:07:22,253 [P2192/D2/T37] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.ICacheRefresher
+ 2018-01-23 22:07:22,254 [P2192/D2/T37] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.ICacheRefresher (took 1ms)
+ 2018-01-23 22:12:54,552 [P2192/D2/T55] INFO  Umbraco.Core.Publishing.PublishingStrategy - Content 'WhoAreWe' with Id '0' has been published.
+ 2018-01-23 22:12:59,256 [P2192/D2/T55] INFO  umbraco.content - Save Xml to file...
+ 2018-01-23 22:12:59,283 [P2192/D2/T55] INFO  umbraco.content - Saved Xml to file.
+ 2018-01-23 22:16:25,889 [P9740/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco 7.7.8 application starting on RICHARD-PC
+ 2018-01-23 22:16:25,915 [P9740/D2/T1] INFO  Umbraco.Core.PluginManager - Determining hash of code files on disk
+ 2018-01-23 22:16:25,941 [P9740/D2/T1] INFO  Umbraco.Core.PluginManager - Hash determined (took 26ms)
+ 2018-01-23 22:16:26,040 [P9740/D2/T1] INFO  Umbraco.Core.MainDom - Acquiring MainDom...
+ 2018-01-23 22:16:26,043 [P9740/D2/T1] INFO  Umbraco.Core.MainDom - Acquired MainDom.
+ 2018-01-23 22:16:26,045 [P9740/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2018-01-23 22:16:26,637 [P9740/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 592ms)
+ 2018-01-23 22:16:26,638 [P9740/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IApplicationStartupHandler
+ 2018-01-23 22:16:26,655 [P9740/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IApplicationStartupHandler (took 17ms)
+ 2018-01-23 22:16:26,687 [P9740/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2018-01-23 22:16:26,688 [P9740/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2018-01-23 22:16:26,688 [P9740/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+ 2018-01-23 22:16:26,706 [P9740/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter (took 17ms)
+ 2018-01-23 22:16:26,707 [P9740/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2018-01-23 22:16:26,707 [P9740/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2018-01-23 22:16:26,708 [P9740/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Core.PropertyEditors.IPropertyValueConverter
+ 2018-01-23 22:16:26,727 [P9740/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Core.PropertyEditors.IPropertyValueConverter (took 19ms)
+ 2018-01-23 22:16:26,771 [P9740/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2018-01-23 22:16:26,772 [P9740/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2018-01-23 22:16:26,773 [P9740/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Web.Mvc.SurfaceController
+ 2018-01-23 22:16:26,801 [P9740/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Web.Mvc.SurfaceController (took 28ms)
+ 2018-01-23 22:16:26,803 [P9740/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2018-01-23 22:16:26,803 [P9740/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2018-01-23 22:16:26,805 [P9740/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Web.WebApi.UmbracoApiController
+ 2018-01-23 22:16:26,816 [P9740/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Web.WebApi.UmbracoApiController (took 11ms)
+ 2018-01-23 22:16:29,132 [P9740/D2/T1] INFO  Umbraco.Core.DatabaseContext - CanConnect = True
+ 2018-01-23 22:16:29,597 [P9740/D2/T1] INFO  Umbraco.Web.Cache.CacheRefresherEventHandler - Initializing Umbraco internal event handlers for cache refreshing
+ 2018-01-23 22:16:30,197 [P9740/D2/T1] INFO  Umbraco.Web.Search.ExamineEvents - Initializing Examine and binding to business logic events
+ 2018-01-23 22:16:30,198 [P9740/D2/T1] INFO  Umbraco.Web.Search.ExamineEvents - Adding examine event handlers for index providers: 3
+ 2018-01-23 22:16:30,228 [P9740/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco application startup complete (took 4443ms)
+ 2018-01-23 22:16:30,232 [P9740/D2/T1] INFO  Umbraco.Web.ExamineStartup - Forcing index InternalIndexSet to be unlocked since it was left in a locked state
+ 2018-01-23 22:16:30,234 [P9740/D2/T1] INFO  Umbraco.Web.ExamineStartup - Forcing index ExternalIndexSet to be unlocked since it was left in a locked state
+ 2018-01-23 22:16:30,618 [P9740/D2/T6] INFO  Umbraco.Core.Sync.ApplicationUrlHelper - New ApplicationUrl detected: http://localhost:61480/umbraco
+ 2018-01-23 22:16:30,620 [P9740/D2/T6] INFO  Umbraco.Core.Sync.ApplicationUrlHelper - ApplicationUrl: http://localhost:61480/umbraco (UmbracoModule request)
+ 2018-01-23 22:16:31,174 [P9740/D2/T6] INFO  umbraco.content - Load Xml from file...
+ 2018-01-23 22:16:31,176 [P9740/D2/T6] INFO  umbraco.content - Loaded Xml from file.
+ 2018-01-23 22:16:32,173 [P9740/D2/T6] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2018-01-23 22:16:32,174 [P9740/D2/T6] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2018-01-23 22:16:32,174 [P9740/D2/T6] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Core.PropertyEditors.IParameterEditor
+ 2018-01-23 22:16:32,186 [P9740/D2/T6] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Core.PropertyEditors.IParameterEditor (took 12ms)
+ 2018-01-23 22:16:55,917 [P9740/D2/T6] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2018-01-23 22:16:55,918 [P9740/D2/T6] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2018-01-23 22:16:55,918 [P9740/D2/T6] INFO  Umbraco.Core.PluginManager - Resolving [Umbraco.Web.Trees.TreeAttribute]Umbraco.Web.Trees.TreeController
+ 2018-01-23 22:16:55,954 [P9740/D2/T6] INFO  Umbraco.Core.PluginManager - Resolved [Umbraco.Web.Trees.TreeAttribute]Umbraco.Web.Trees.TreeController (took 35ms)
+ 2018-01-23 22:16:56,592 [P9740/D2/T6] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2018-01-23 22:16:56,592 [P9740/D2/T6] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2018-01-23 22:16:56,593 [P9740/D2/T6] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IAction
+ 2018-01-23 22:16:56,609 [P9740/D2/T6] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IAction (took 15ms)
+ 2018-01-23 22:16:58,169 [P9740/D2/T6] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2018-01-23 22:16:58,169 [P9740/D2/T6] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2018-01-23 22:16:58,170 [P9740/D2/T6] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.ITree
+ 2018-01-23 22:16:58,179 [P9740/D2/T6] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.ITree (took 8ms)
+ 2018-01-23 22:16:58,235 [P9740/D2/T6] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2018-01-23 22:16:58,236 [P9740/D2/T6] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2018-01-23 22:16:58,237 [P9740/D2/T6] INFO  Umbraco.Core.PluginManager - Resolving [Umbraco.Web.Trees.TreeAttribute]Umbraco.Web.Trees.TreeController
+ 2018-01-23 22:16:58,237 [P9740/D2/T6] INFO  Umbraco.Core.PluginManager - Resolved [Umbraco.Web.Trees.TreeAttribute]Umbraco.Web.Trees.TreeController (took 0ms)
+ 2018-01-23 22:16:58,240 [P9740/D2/T6] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2018-01-23 22:16:58,240 [P9740/D2/T6] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2018-01-23 22:16:58,241 [P9740/D2/T6] INFO  Umbraco.Core.PluginManager - Resolving [umbraco.businesslogic.TreeAttribute]umbraco.interfaces.ITree
+ 2018-01-23 22:16:58,252 [P9740/D2/T6] INFO  Umbraco.Core.PluginManager - Resolved [umbraco.businesslogic.TreeAttribute]umbraco.interfaces.ITree (took 11ms)
+ 2018-01-23 22:16:58,393 [P9740/D2/T6] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2018-01-23 22:16:58,394 [P9740/D2/T6] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2018-01-23 22:16:58,394 [P9740/D2/T6] INFO  Umbraco.Core.PluginManager - Resolving [umbraco.businesslogic.ApplicationAttribute]umbraco.interfaces.IApplication
+ 2018-01-23 22:16:58,406 [P9740/D2/T6] INFO  Umbraco.Core.PluginManager - Resolved [umbraco.businesslogic.ApplicationAttribute]umbraco.interfaces.IApplication (took 11ms)
+ 2018-01-23 22:16:59,501 [P9740/D2/T8] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2018-01-23 22:16:59,502 [P9740/D2/T8] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2018-01-23 22:16:59,502 [P9740/D2/T8] INFO  Umbraco.Core.PluginManager - Resolving [Umbraco.Core.Persistence.Mappers.MapperForAttribute]Umbraco.Core.Persistence.Mappers.BaseMapper
+ 2018-01-23 22:16:59,562 [P9740/D2/T8] INFO  Umbraco.Core.PluginManager - Resolved [Umbraco.Core.Persistence.Mappers.MapperForAttribute]Umbraco.Core.Persistence.Mappers.BaseMapper (took 59ms)
+ 2018-01-23 22:17:31,268 [P9740/D2/T6] INFO  umbraco.BusinessLogic.Log - Log scrubbed.  Removed all items older than 2018-01-22 22:17:31
+ 2018-01-23 22:19:40,573 [P9740/D2/T20] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2018-01-23 22:19:40,574 [P9740/D2/T20] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 1ms)
+ 2018-01-23 22:19:40,575 [P9740/D2/T20] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.ICacheRefresher
+ 2018-01-23 22:19:40,588 [P9740/D2/T20] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.ICacheRefresher (took 12ms)
+ 2018-01-23 23:14:49,437 [P9740/D2/T44] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2018-01-23 23:14:49,438 [P9740/D2/T44] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 1ms)
+ 2018-01-23 23:14:49,438 [P9740/D2/T44] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Web.Editors.IEditorValidator
+ 2018-01-23 23:14:49,484 [P9740/D2/T44] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Web.Editors.IEditorValidator (took 45ms)
+ 2018-01-23 23:17:51,300 [P9740/D2/T78] INFO  Umbraco.Core.Publishing.PublishingStrategy - Content 'MONGO' with Id '1090' has been published.
+ 2018-01-23 23:17:56,100 [P9740/D2/T78] INFO  umbraco.content - Save Xml to file...
+ 2018-01-23 23:17:56,120 [P9740/D2/T78] INFO  umbraco.content - Saved Xml to file.
+ 2018-01-23 23:19:25,724 [P9740/D2/T78] INFO  Umbraco.Core.Publishing.PublishingStrategy - Content 'MONGO' with Id '1090' has been published.
+ 2018-01-23 23:19:30,177 [P9740/D2/T78] INFO  umbraco.content - Save Xml to file...
+ 2018-01-23 23:19:30,194 [P9740/D2/T78] INFO  umbraco.content - Saved Xml to file.
+ 2018-01-23 23:20:15,002 [P9740/D2/T57] INFO  Umbraco.Core.Publishing.PublishingStrategy - Content 'MONGO' with Id '1090' has been published.
+ 2018-01-23 23:20:19,525 [P9740/D2/T26] INFO  umbraco.content - Save Xml to file...
+ 2018-01-23 23:20:19,586 [P9740/D2/T26] INFO  umbraco.content - Saved Xml to file.
+ 2018-01-23 23:21:15,645 [P9740/D2/T78] INFO  Umbraco.Core.Publishing.PublishingStrategy - Content 'MONGO' with Id '1090' has been published.
+ 2018-01-23 23:21:20,118 [P9740/D2/T46] INFO  umbraco.content - Save Xml to file...
+ 2018-01-23 23:21:20,137 [P9740/D2/T46] INFO  umbraco.content - Saved Xml to file.
